@@ -1,5 +1,5 @@
 cookie.example.txt
 .vscode
 \venv
-data\__pycache__
+data/__pycache__/
 export.txt
