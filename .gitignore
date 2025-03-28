@@ -3,3 +3,8 @@ cookie.example.txt
 \venv
 data/__pycache__/
 export.txt
+build.bat
+cookies.txt
+proxy.txt
+main.spec
+\output

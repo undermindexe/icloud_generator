@@ -35,6 +35,10 @@ It also allows you to export the data in a convenient format, showing the hidden
 
 The program **works on Windows, Linux, and MacOS**
 
+### Detail instruction
+
+[GitBook instruction](https://expanse-2.gitbook.io/icloud-generator/)
+
 ### Install
 
 **You can use the ready-made exe build or install it manually**
@@ -84,6 +88,10 @@ The program **works on Windows, Linux, and MacOS**
 ### Совместимость
 
 Программа работает на Windows, Linux и MacOS
+
+### Подробная инструкция
+
+[GitBook Инструкция](https://expanse-2.gitbook.io/icloud-generator/)
 
 ### Установка
 
